@@ -14,4 +14,4 @@ class Cachorro extends Animal {
 }
 
 const pug = new Cachorro(false);
-console.log(pug)
+console.log(pug);
